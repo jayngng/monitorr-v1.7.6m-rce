@@ -1,6 +1,4 @@
-# monitorr1.7.6m
-
-+ Exploit vulnerable monitorr ver 1.7.6m. 
+### **Remote Code Execution monitorr v1.7.6m**
 
 ```bash
 $ python3 monitorr.py
