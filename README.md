@@ -1,5 +1,7 @@
 ### **Remote Code Execution monitorr v1.7.6m**
 
++ The code is modified from public exploit by storing user's cookies. 
+
 ```bash
 $ python3 monitorr.py
 [*] Example usage: 
